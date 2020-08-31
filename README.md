@@ -63,11 +63,11 @@ Se observa la casilla ```offline``` activa y la posterior carga de uno de sus re
 
 * Deploy your App to Heroku
 
-![](/img/5.jpg)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://vast-citadel-87568.herokuapp.com/))
 
 * Deploy your App as an Azure Webapp
 
-![](/img/6.jpg)
+![](/img/5.jpg)
 
 # Autores
 
